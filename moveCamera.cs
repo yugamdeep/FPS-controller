@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class MoveCamera : MonoBehaviour
+public class moveCamera : MonoBehaviour
 {
     [SerializeField] Transform cameraPosition = null;
 
